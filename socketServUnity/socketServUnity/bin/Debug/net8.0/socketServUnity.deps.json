@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "socketServUnity/1.0.0": {
+        "runtime": {
+          "socketServUnity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "socketServUnity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

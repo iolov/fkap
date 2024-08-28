@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\socketServUnity\socketServUnity\bin\Debug\net8.0\socketServUnity.exe
+C:\Users\User\source\repos\socketServUnity\socketServUnity\bin\Debug\net8.0\socketServUnity.deps.json
+C:\Users\User\source\repos\socketServUnity\socketServUnity\bin\Debug\net8.0\socketServUnity.runtimeconfig.json
+C:\Users\User\source\repos\socketServUnity\socketServUnity\bin\Debug\net8.0\socketServUnity.dll
+C:\Users\User\source\repos\socketServUnity\socketServUnity\bin\Debug\net8.0\socketServUnity.pdb
+C:\Users\User\source\repos\socketServUnity\socketServUnity\obj\Debug\net8.0\socketServUnity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\socketServUnity\socketServUnity\obj\Debug\net8.0\socketServUnity.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\socketServUnity\socketServUnity\obj\Debug\net8.0\socketServUnity.AssemblyInfo.cs
+C:\Users\User\source\repos\socketServUnity\socketServUnity\obj\Debug\net8.0\socketServUnity.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\socketServUnity\socketServUnity\obj\Debug\net8.0\socketServUnity.dll
+C:\Users\User\source\repos\socketServUnity\socketServUnity\obj\Debug\net8.0\refint\socketServUnity.dll
+C:\Users\User\source\repos\socketServUnity\socketServUnity\obj\Debug\net8.0\socketServUnity.pdb
+C:\Users\User\source\repos\socketServUnity\socketServUnity\obj\Debug\net8.0\socketServUnity.genruntimeconfig.cache
+C:\Users\User\source\repos\socketServUnity\socketServUnity\obj\Debug\net8.0\ref\socketServUnity.dll
